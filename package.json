@@ -1,0 +1,22 @@
+{
+  "name": "thechallenger_winapp",
+  "version": "1.0.0",
+  "description": "Desktop application for challenges between users.",
+  "main": "scripts/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trayanski/TheChallenger_WinApp.git"
+  },
+  "author": "TK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trayanski/TheChallenger_WinApp/issues"
+  },
+  "homepage": "https://github.com/Trayanski/TheChallenger_WinApp#readme",
+  "dependencies": {
+    "electron": "^8.2.0"
+  }
+}
